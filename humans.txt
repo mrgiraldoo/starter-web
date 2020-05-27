@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manuel Giraldo mrgiraldoo@gmail.com
 
 # THANKS
 
